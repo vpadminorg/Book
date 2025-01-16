@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>/Book/en/sitemap.xml</loc>
+    
+      <lastmod>2025-01-16T14:31:26+00:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>/Book/zh/sitemap.xml</loc>
+    
+      <lastmod>2025-01-16T14:31:26+00:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>/Book/he/sitemap.xml</loc>
+    
+      <lastmod>2025-01-16T14:31:26+00:00</lastmod>
+    
+  </sitemap>
+  
+</sitemapindex>
